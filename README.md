@@ -30,3 +30,8 @@ This bike sales analysis reveals key insights into the business's revenue and pr
 •	The company can focus on targeted marketing for bikes for young adults and adults, while upselling accessories and clothing through bundle deals in the United States, Australia, and the United Kingdom represent the most profitable markets. Seasonal discounts and promotions can drive sales during peak periods, and expanding product variants, such as introducing electric or foldable bikes which can attract new customers. Enhancing customer loyalty programs and leveraging positive reviews will also help in customer retention and build trust with new buyers. 
 •	Germany, France, and Canada offer promising opportunities for further expansion. The company should revamp product positioning to better highlight unique features, gather customer feedback to provide insights into improvements, while increasing product visibility in both physical and online stores will attract more attention in these regions. Additionally, focusing on niche markets or specific customer segments can help tap into new audiences. These strategies will help improve sales and overall product performance. By focusing on high-performing markets and customer segments, the business can drive growth, increase market share, and sustain profitability in the competitive global bike industry.
 
+#View analysis on medium
+https://medium.com/@rofiat.razaq/data-analysis-sql-project-1-bikes-sales-analysis-61ab5d2491fd 
+
+Let's connect on LinkedIn
+www.linkedin.com/in/rofiat-abdurrazaq
