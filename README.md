@@ -2,6 +2,8 @@
 
 Data Analysis (SQL) Project 1: Bikes Sales Analysis
 INTRODUCTION
+![image](https://github.com/user-attachments/assets/6fd9594b-4d47-4937-bd1a-a6f8a47cd910)
+
 In today’s data-driven business world, understanding customer behavior and profitability is critical to strategic decision-making. The goal of the project is to analyze bike sales data with Microsoft SQL Server by exploring how customer demographics impact the profitability of different product categories, identifying correlations between these factors and overall sales performance, and how businesses can optimize marketing, product development, and pricing strategies by better understanding these relationships.
 The dataset used in this analysis was obtained from Kaggle, it contains 113,036  transactions with details about the products purchased, the customer demographics (age group, gender, country), the cost and price of each product, and the total revenue and profit generated. This dataset offers a broad perspective on how different segments of customers contribute to product profitability across different regions.
 
@@ -30,8 +32,6 @@ This bike sales analysis reveals key insights into the business's revenue and pr
 •	The company can focus on targeted marketing for bikes for young adults and adults, while upselling accessories and clothing through bundle deals in the United States, Australia, and the United Kingdom represent the most profitable markets. Seasonal discounts and promotions can drive sales during peak periods, and expanding product variants, such as introducing electric or foldable bikes which can attract new customers. Enhancing customer loyalty programs and leveraging positive reviews will also help in customer retention and build trust with new buyers. 
 •	Germany, France, and Canada offer promising opportunities for further expansion. The company should revamp product positioning to better highlight unique features, gather customer feedback to provide insights into improvements, while increasing product visibility in both physical and online stores will attract more attention in these regions. Additionally, focusing on niche markets or specific customer segments can help tap into new audiences. These strategies will help improve sales and overall product performance. By focusing on high-performing markets and customer segments, the business can drive growth, increase market share, and sustain profitability in the competitive global bike industry.
 
-#View analysis on medium
-https://medium.com/@rofiat.razaq/data-analysis-sql-project-1-bikes-sales-analysis-61ab5d2491fd 
 
 Let's connect on LinkedIn
 www.linkedin.com/in/rofiat-abdurrazaq
